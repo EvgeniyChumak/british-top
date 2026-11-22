@@ -26,6 +26,9 @@ js/europe-data.js дані карти (генерується: npm run build:map
 scripts/          генератор карти
 assets/covers/    обкладинки альбомів
 assets/audio/     треки
+assets/fonts/     шрифт Onest (OFL), лежить у проєкті
+js/vendor/        Lenis (MIT), лежить у проєкті
+favicon.svg       іконка сайту
 ```
 
 Щоб змінити рейтинг, правте `js/ranking.js`.
